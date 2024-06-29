@@ -1,14 +1,10 @@
-### README
-
----
-
 ## Project Title: Sales Performance Dashboard
 
 ### Project Description
-- This project involves the creation of an interactive dashboard to analyze and visualize sales data. 
+- Created an interactive dashboard to analyze and visualize sales data. 
 - The primary objective is to provide insights into sales performance, customer behavior, and regional sales distribution. 
 - The dashboard helps stakeholders make data-driven decisions by showcasing key metrics and trends.
-
+  
 ### Data Description
 The "Sales Data" sheet includes the following columns:
 - **Order ID**: Unique identifier for each sales transaction.
